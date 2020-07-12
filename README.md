@@ -5,7 +5,7 @@
 [![Twitter Badge](https://img.shields.io/badge/-Twitter-1ca0f1?style=flat-square&labelColor=1ca0f1&logo=twitter&logoColor=white&link=https://twitter.com/hellowluan)](https://twitter.com/hellowluan)
 [![Instagram Badge](https://img.shields.io/badge/-Instagram-%23fb3958?style=flat-square&labelColor=%23fb3958&logo=instagram&logoColor=FFFFFF&link=https://www.instagram.com/hellowluan/)](https://www.instagram.com/hellowluan/)
 
-Information Technology Student
+👨🏻‍💻 Information Technology Student
 
 ## About me 
 
