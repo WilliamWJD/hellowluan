@@ -1,16 +1,30 @@
-### Hi there 👋
+# Hello, I'm Luan Mateus 🐧
 
-<!--
-**hellowluan/hellowluan** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+[![Github Badge](https://img.shields.io/badge/-Github-000?style=flat-square&logo=Github&logoColor=white&link=https://github.com/hellowluan)](https://github.com/hellowluan)
+[![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/hellowluan/)](https://www.linkedin.com/in/hellowluan/)
+[![Twitter Badge](https://img.shields.io/badge/-Twitter-1ca0f1?style=flat-square&labelColor=1ca0f1&logo=twitter&logoColor=white&link=https://twitter.com/hellowluan)](https://twitter.com/hellowluan)
+[![Instagram Badge](https://img.shields.io/badge/-Instagram-%23fb3958?style=flat-square&labelColor=%23fb3958&logo=instagram&logoColor=FFFFFF&link=https://www.instagram.com/hellowluan/)](https://www.instagram.com/hellowluan/)
 
-Here are some ideas to get you started:
+Information Technology Student
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## About me 
+
+⚡️ I'm 19, I love computers and programming, and next year I intend to study Computer Science.
+
+
+- 🌎 I'm from Brasilia - Brazil
+- 🎬 I like to study and watching series/movies
+- 💎 I love to customize everything
+
+## Studying now
+
+📝 Knowledge is never too much, these are the content I'm focused on at the moment.
+
+- ☕️ Java
+- ⚡️ Javascript
+- 🐘 PHP
+- 🐬 MySQL
+- 🌃 Data Structures
+- ⚔️ Competitive Programming
+
+made with ❤️ by Luan Mateus
